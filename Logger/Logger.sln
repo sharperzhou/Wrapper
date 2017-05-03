@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Logger", "Logger\Logger.vcproj", "{F3F6D37D-C917-43BC-AE38-C205A467616C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F6D37D-C917-43BC-AE38-C205A467616C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3F6D37D-C917-43BC-AE38-C205A467616C}.Debug|Win32.Build.0 = Debug|Win32
+		{F3F6D37D-C917-43BC-AE38-C205A467616C}.Release|Win32.ActiveCfg = Release|Win32
+		{F3F6D37D-C917-43BC-AE38-C205A467616C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
